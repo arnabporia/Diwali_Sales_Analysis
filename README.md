@@ -1,4 +1,4 @@
-# Diwali_Sales_Analysis
+# Diwali_Sales_Analysis Using Python
 
 ## Overview
 This project analyzes Diwali sales data using Python EDA to uncover customer behavior, sales trends, and product performance. Insights help businesses optimize marketing strategies and inventory management during festive sales.
