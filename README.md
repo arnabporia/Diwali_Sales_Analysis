@@ -5,7 +5,9 @@ The goal of this project is to analyze Diwali sales data using Exploratory Data 
 
 1.By leveraging Python's data analysis and visualization libraries, this project aims to Identify the top-selling product 
   categories and highest revenue-generating regions.
+  
 2.Understand customer demographics (age group, gender, state) influencing sales.
   Discover spending patterns across different customer segments.
+  
 3.Provide data-driven insights to help businesses optimize their marketing strategies and inventory management during festive 
   sales.
