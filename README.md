@@ -1,7 +1,7 @@
 # Diwali_Sales_Analysis
 
 ## Project Objective
-### The goal of this project is to analyze Diwali sales data using Exploratory Data Analysis (EDA) in Python to uncover key insights about customer purchasing behavior, sales trends, and business opportunities.
+The goal of this project is to analyze Diwali sales data using Exploratory Data Analysis (EDA) in Python to uncover key insights about customer purchasing behavior, sales trends, and business opportunities.
 
 By leveraging Python's data analysis and visualization libraries, this project aims to:
 ✅ Identify the top-selling product categories and highest revenue-generating regions.
