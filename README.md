@@ -1,3 +1,10 @@
 # Diwali_Sales_Analysis
 
-##This project involves a comprehensive analysis of Music data using SQL. The goal is to extract valuable insights and answer various questions based on the dataset.
+## Project Objective
+### The goal of this project is to analyze Diwali sales data using Exploratory Data Analysis (EDA) in Python to uncover key insights about customer purchasing behavior, sales trends, and business opportunities.
+
+By leveraging Python's data analysis and visualization libraries, this project aims to:
+✅ Identify the top-selling product categories and highest revenue-generating regions.
+✅ Understand customer demographics (age group, gender, state) influencing sales.
+✅ Discover spending patterns across different customer segments.
+✅ Provide data-driven insights to help businesses optimize their marketing strategies and inventory management during festive sales.
